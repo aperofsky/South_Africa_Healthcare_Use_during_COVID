@@ -1,0 +1,2 @@
+
+## Example R script for time series analysis of all-cause respiratory admissions in Perofsky _et al._ 2021 "The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa, March 2020 – September 2021." _Clinical Infectious Diseases_
